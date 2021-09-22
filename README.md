@@ -37,11 +37,11 @@ ERROR CODES
 ===========
 Errors will be shown by flashing the onboard LED:
 
-2 = Error resetting PS/2 mouse
-3 = Error changing sample rate (non-intellimouse?)
-4 = Error reading ID (non-intellimouse?)
-5 = Unable to begin PS2 protocol
-6 = Unable to enable Data Reporting
+* 2 = Error resetting PS/2 mouse
+* 3 = Error changing sample rate (non-intellimouse?)
+* 4 = Error reading ID (non-intellimouse?)
+* 5 = Unable to begin PS2 protocol
+* 6 = Unable to enable Data Reporting
 
 
 
