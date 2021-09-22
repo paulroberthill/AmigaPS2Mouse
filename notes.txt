@@ -1,11 +1,3 @@
-# AmigaPS2Mouse
-
-Very much work-in-progress PS/2 Amiga Mouse driver.
-
-Uses an Arduino to translate PS/2 mouse protocol to the Amiga mouse port.
-The middle mouse button us used to communicate extra information - the scroll wheel and the status of the middle button.
-
-
 NOTES
 =====
 
@@ -20,7 +12,7 @@ THANKS
 Kris Adcock for his PS/2-to-Quadrature-mouse project.
 http://danceswithferrets.org/geekblog/?m=201702
 PS2_to_Amiga.ino is based heavily on his PS2_to_Quadrature_Mouse.ino
-I used an interrupt based PS/2 library instead if Kris's.
+I used an interrupt driver PS/2 library instead if his.
 
 PS2Utils Arduino library by Roger Tawa (Apache License 2.0)
 https://github.com/rogerta/PS2Utils
